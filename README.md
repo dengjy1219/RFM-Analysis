@@ -1,6 +1,6 @@
 # RFM Analysis of an E-Commerce Bookstore
 
-**First Stage Delivery of the Project / Tech & Non-Tech Presentation**
+**First Stage Deliverable of the Project / Tech & Non-Tech Presentation**
 
 **Dataset Description:**
 The dataset contains the frequency of purchases, number of purchases, and amount of money purchased by the customer, as well as the categories of books purchased by the customer.
